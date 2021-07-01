@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "49XFPF8C85.jabber222.nfc.cisco",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
