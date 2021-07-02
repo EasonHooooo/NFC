@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "49XFPF8C85.jabber222.nfc.cisco",
-                "paths": [ "*"]
+                "paths": [ "*", "/", "/test/"]
             }
         ]
     }
