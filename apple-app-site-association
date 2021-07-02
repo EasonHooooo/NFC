@@ -5,6 +5,14 @@
             {
                 "appID": "49XFPF8C85.jabber222.nfc.cisco",
                 "paths": [ "*", "/", "/test/"]
+            },
+            {
+                "appID": "49XFPF8C85.com.cisco.jabber.beta222",
+                "paths": [ "*", "/", "/test/"]
+            },
+            {
+                "appID": "DE8Y96K9QP.com.cisco.squared",
+                "paths": [ "/m/*" ]
             }
         ]
     }
