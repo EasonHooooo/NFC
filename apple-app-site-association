@@ -8,7 +8,7 @@
             },
             {
                 "appID": "49XFPF8C85.com.cisco.jabber.beta222",
-                "paths": [ "*", "/", "/test"]
+                "paths": [ "*", "/", "/test" "/meet/"]
             },
             {
                 "appID": "DE8Y96K9QP.com.cisco.squared",
